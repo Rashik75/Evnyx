@@ -1,5 +1,5 @@
 #include <iostream>
 int evnyx() {
-	std::cout << "Îëåã - ";
+	std::cout << "Ğ”Ğ°Ğ½Ğ¸Ğ»Ğ° - ";
 	return 0;
 }
