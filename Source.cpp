@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	setlocale(LC_ALL, "Rus");
-	cout << "À âû çíàåòå, ÷òî ";
+	cout << "Ð”Ð°Ð½Ð¸Ð»Ð° Ð Ð°ÑˆÐµÐ²ÑÐºÐ¸Ð¹ ";
 	evnyx();
 	good();
 	return 0;
