@@ -1,4 +1,4 @@
 #include <iostream>
 void good() {
-	std::cout << "õîðîøèé ïðîãðàììèñò!" << std::endl;
+	std::cout << "Ð¥Ð¾Ñ€ÑˆÐ¸Ð¹ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð¸ÑÑ‚!" << std::endl;
 }
